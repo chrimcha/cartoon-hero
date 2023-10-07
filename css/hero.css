@@ -35,6 +35,10 @@ main{
     padding: 20px;
 }
 
+main p{
+    text-align: justify;
+}
+
 main img{
     max-width: 100%;
 }
